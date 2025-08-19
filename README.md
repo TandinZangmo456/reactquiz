@@ -228,3 +228,5 @@ The following test cases can be used to validate the application functionality:
 # reactquiz
 # reactquiz
 # reactquiz
+
+ci
